@@ -1,0 +1,70 @@
+.logo {
+    text-align: center;
+    background-image: url('../img/backgrounds/landing.jpg');
+    color: white;
+}
+#breakfast {
+    background-image: url('../img/foodtop/breakfast.jpg');
+    height: 210px;
+    width: 350px;
+    text-align: center;
+   
+}
+#lunch {
+    background-image: url('../img/foodtop/lunch.jpg');
+    height: 210px;
+    width: 350px;
+    text-align: center;
+
+}
+#dinner {
+    background-image: url('../img/foodtop/dinner.jpg');
+    background-size: auto;
+    height: 210px;
+    width: 350px;
+    text-align: center;
+}
+.subscribe {
+    text-align: center;
+    background-image: url('../img/backgrounds/subscribe.jpg');
+    height: 301px;
+    width: 1400px;
+    color: white;
+}
+#footer {
+    background-color: #F15A29;
+    width: 1400px;
+    text-align: center;
+    color: white;
+}
+#foodsBg {
+    background-image: url('../img/backgrounds/foodsBg.jpg');
+    height: 599px;
+    width: 1400px;
+}
+#happy {
+    background-color: lightgray;
+    height: 105px;
+    width: 350px;
+}
+#party {
+    background-color: #F15A29;
+    height: 105px;
+    width: 350px;
+    color: white;
+}
+#Your-email {
+    width: min-content;
+    align-items: center;
+    background-image: url('../img/backgrounds/subscribe.jpg');
+}
+button {
+    color: white;
+    background-color: #F15A29;
+}
+#drinks {
+    text-align: right;
+}
+#fastFood {
+    text-align: justify;
+}
